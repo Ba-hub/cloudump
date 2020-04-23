@@ -3,7 +3,7 @@
 ####################################################################################
 #[S] SCRIP : Cloudump                                                              #
 #[J]   JOB : identifying real IP of CloudFlare protected website.                  #
-#[A]Codedby: ghosthub (b@b@y)                                                          #
+#[A]Codedby: ghosthub (b@b@y)                                                      #
 ####################################################################################
 ##
 ##Modlues
